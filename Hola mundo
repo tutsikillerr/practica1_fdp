@@ -3,3 +3,5 @@
 main()
 {
   printf ("Hello world");
+ printf("Good Bye!"); //Linea agregada
+ }
